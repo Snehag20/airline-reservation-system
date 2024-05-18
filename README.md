@@ -1,1 +1,2 @@
 # airline-reservation-system
+The Airline Reservation System is a comprehensive console-based application developed using Python. This project showcases my proficiency in software development by providing a full-featured system for managing airline reservations. The system includes functionalities for user registration, user authentication, flight management, and booking reservations, ensuring an efficient and user-friendly experience for both administrators and customers.
